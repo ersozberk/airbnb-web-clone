@@ -1,5 +1,5 @@
 # AirBnb website Clone
-
+![Proje Logosu](https://github.com/ersozberk/airbnb-web-clone/blob/main/public/logo.png?raw=true)
 clone of airbnb web app with almost similar features.
 
 ## TechStack
